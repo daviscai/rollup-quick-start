@@ -287,7 +287,7 @@ npm install --save-dev rollup-plugin-uglify
 更新 rollup.config.js 配置文件：
 
 ```
-/ Rollup plugins
+// Rollup plugins
 import babel from 'rollup-plugin-babel';
 import resolve from 'rollup-plugin-node-resolve';
 import commonjs from 'rollup-plugin-commonjs';
@@ -345,7 +345,7 @@ serve({
 
 更新rollup.config.js配置文件：
 ```
-/ Rollup plugins
+// Rollup plugins
 import babel from 'rollup-plugin-babel';
 import resolve from 'rollup-plugin-node-resolve';
 import commonjs from 'rollup-plugin-commonjs';
